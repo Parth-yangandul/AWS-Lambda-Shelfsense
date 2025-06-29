@@ -25,7 +25,7 @@
 
 | Add Items | View Items | Expiring Items with Recipes |
 | --------- | ---------- | --------------------------- |
-| ![Add](https://placehold.co/200x150?text=Add+Items) | ![View](https://placehold.co/200x150?text=View+Items) | ![Expire](https://placehold.co/200x150?text=Expiring+Recipes) |
+| ![Add](images/add.png) | ![View](images/view.png) | ![Expire](images/exp.png) |
 
 ---
 
