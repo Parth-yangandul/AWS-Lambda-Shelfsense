@@ -1,0 +1,16 @@
+# Streamlit app UI
+streamlit==1.35.0
+
+# HTTP requests
+requests==2.31.0
+
+# AWS Lambda/DynamoDB interaction
+boto3==1.34.122
+
+# Visualization
+plotly==5.21.0
+pandas==2.2.2
+
+# For timezone-aware datetime handling (optional)
+python-dateutil==2.9.0.post0
+python-dotenv

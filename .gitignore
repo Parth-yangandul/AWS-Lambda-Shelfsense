@@ -1,0 +1,36 @@
+# Terraform state and cache
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+terraform.tfvars
+.terraform/
+[terraform.tfstate](http://_vscodecontentref_/1)
+terraform.tfstate.*
+
+# Lambda zip packages
+*.zip
+
+# Python bytecode and venv
+__pycache__/
+*.pyc
+*.py[cod]
+*.pyo
+venv/
+.env
+ui/venv/
+ui/.env
+
+# Streamlit logs
+.streamlit/
+
+# Editor/IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Configuration secrets
+secrets.yaml
+config.yaml
+
+lambda/*.zip
