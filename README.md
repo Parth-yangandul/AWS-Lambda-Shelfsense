@@ -121,7 +121,7 @@ ShelfSense uses Amazon SNS to send alerts:
 
 ## 👨‍💻 Author
 
-Made with 💚 by [Parth Yangandul](https://github.com/parthyang)
+Made with 💚 by [Parth Yangandul](https://github.com/Parth-yangandul)
 
 ---
 
