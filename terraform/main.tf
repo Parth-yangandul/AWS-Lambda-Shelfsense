@@ -143,6 +143,7 @@ resource "aws_lambda_function" "check_expiry_lambda" {
   environment {
     variables = {
       SNS_TOPIC_ARN = aws_sns_topic.expiry_alerts.arn
+      SPOONACULAR_API_KEY = var.spoonacular_api_key
     }
   }
 }
