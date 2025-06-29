@@ -36,7 +36,7 @@ if user_id or refresh:
                 with st.container():
                     st.markdown(
                         f"""
-                        <div style="background-color: #f9f9f9; border-left: 5px solid {color}; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+                        <div style="background-color: black; border-left: 5px solid {color}; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
                             <h4>🧾 {item['item_name']}</h4>
                             <p><strong>📦 Quantity:</strong> {item['quantity']}</p>
                             <p><strong>📅 Expiry Date:</strong> {item['expiry_date']} <span style="color:{color}; font-weight:bold;">({status_text})</span></p>

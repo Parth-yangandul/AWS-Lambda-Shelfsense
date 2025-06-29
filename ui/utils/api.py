@@ -1,6 +1,7 @@
 import requests
 from dotenv import load_dotenv
 import os
+load_dotenv()
 
 # 🔧 Replace this with your actual deployed API Gateway base URL
 BASE_URL = os.getenv("API_GATEWAY_BASE_URL")
