@@ -1,5 +1,6 @@
 # Terraform state and cache
-.terraform/
+terraform/variables.tf
+terraform/outputs.tf
 *.tfstate
 *.tfstate.backup
 crash.log
